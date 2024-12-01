@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mantuja-khan
-- 👀 I’m interested in data analyst
+- 👀 I’m interested in Web Developer
 
 <!---
 Mantuja-khan/Mantuja-khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
